@@ -34,7 +34,7 @@ This project was developed using HTML5 and CSS3 as part of a AICT project in  my
 ## Project Structure
 
 ```
-Time-Series-Watch-Website/
+Time-Series-Website/
 │
 ├── images
 ├── homepage.html
